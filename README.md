@@ -1,12 +1,15 @@
 # dots
 Dot Files
 
-Install
+Install Directions
 
 clone base arch (enable 3d)
+
 yay -S wget
+
 clone dots.git
 install shell script
+
 copy: Hyprland to /usr/bin
       hyprctl to /usr/bin
       libwlroots to /usr/lib
